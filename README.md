@@ -63,7 +63,7 @@
 
 ![Visitor count](https://visitor-badge.laobi.icu/badge?page_id=sgabriel20x.gabriel20x)
 
-<p align="center">
+<p>
 
   <a href="https://www.linkedin.com/in/gabrielgarcia-full-stack-developer/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel%20Garcia-blue?style=flat-square&logo=linkedin">
