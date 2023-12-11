@@ -69,8 +69,8 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Gabriel%20Garcia-blue?style=flat-square&logo=linkedin">
    </a>
 
-  <a href="mailto:gabrielgarciatorresm3@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-gabrielgarciatorresm3@gmail.com-blue?style=flat-square&logo=gmail">
+  <a href="mailto:gabrieldev20x@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-gabrieldev20x@gmail.com-blue?style=flat-square&logo=gmail">
   </a>
 
 </p>
